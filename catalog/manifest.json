@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": 4,
+  "publishedAt": "2026-10-24T08:46:08.598Z",
+  "releaseNotes": "接通 GitHub 公开词库下载；歌名、电影名、明星名字各新增 3 条，共 2409 条。",
+  "deckCount": 24,
+  "wordCount": 2409,
+  "sha256": "5bbe20144d595b30e1f6b17846824369177dd4fb7da18a01193564630bee2402",
+  "bytes": 33411,
+  "downloadUrl": "releases/5bbe20144d595b30e1f6b17846824369177dd4fb7da18a01193564630bee2402.json"
+}
