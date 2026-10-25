@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": 4,
-  "publishedAt": "2026-10-24T08:46:08.598Z",
-  "releaseNotes": "接通 GitHub 公开词库下载；歌名、电影名、明星名字各新增 3 条，共 2409 条。",
+  "version": 5,
+  "publishedAt": "2026-10-25T06:50:08.921Z",
+  "releaseNotes": "24 个分类全部扩充到每类 220 条，共 5280 条；原有词条保留。",
   "deckCount": 24,
-  "wordCount": 2409,
-  "sha256": "5bbe20144d595b30e1f6b17846824369177dd4fb7da18a01193564630bee2402",
-  "bytes": 33411,
-  "downloadUrl": "releases/5bbe20144d595b30e1f6b17846824369177dd4fb7da18a01193564630bee2402.json"
+  "wordCount": 5280,
+  "sha256": "a487baab2a8e9c65562e4bf59d8ce793fcbbff8793bc727b351c00930a011cc1",
+  "bytes": 70931,
+  "downloadUrl": "releases/a487baab2a8e9c65562e4bf59d8ce793fcbbff8793bc727b351c00930a011cc1.json"
 }
